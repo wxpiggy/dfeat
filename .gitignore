@@ -1,0 +1,14 @@
+.vscode/
+*.png
+*.PNG
+*.jpg
+*.JPG
+*.mp4
+*.MP4
+*.SRT
+*.pth
+*.bag
+*.webp
+*.tif
+*.engine
+build/
